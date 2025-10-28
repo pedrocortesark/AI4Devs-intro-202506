@@ -118,7 +118,7 @@ console.assert(r === o, `Expected ${o}, got ${r}`);
 
 Return: repo tree, full file contents, and a PR package (branch name, commits, PR title/body). No extra commentary outside the specified sections.
 
-# STEP 2 - Make a couple of tweaks regarding styiling and setting defaults
+# STEP 2 - Make a couple of tweaks regarding styling and setting defaults
 
 Apply two changes: 
 1) **Default reversed output**: when the page loads (before the user types), show the reversed version of the default string "Hello, welcome to AI4Devs". - Keep the input prefilled with Hello, welcome to AI4Devs (or use this as the fallback when the input is empty). - The result area must already display sveD4IA ot emoclew ,olleH on first render. 
